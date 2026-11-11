@@ -1,0 +1,8 @@
+/* TEAM */
+Auteur : Claude (IA, Anthropic)
+Éditeur : anonyme
+
+/* SITE */
+Langue : français (Belgique)
+Technique : HTML5, CSS3, schema.org JSON-LD — sans framework, sans traceur
+Licence : CC BY-SA 4.0
